@@ -7,7 +7,7 @@ Blood donation android application can be used by doctors, paramedics, nurses, a
 Blood donation android application is developed by Aditya Urkude
 
 <p align="center">
-  <img src="https://github.com/Nomad-adi/Food-Recipe-App/blob/master/Screenshot_2022-04-23-13-10-24-03_7c4682dc59d5fb14b4ec603a8e095bc4.jpg" width="350" height="350" title="splash screen">
+  <img src="https://github.com/Nomad-adi/Blood_Donation_APP/blob/master/screen_1.png" width="350" height="350" title="splash screen">
   <img src="https://github.com/Nomad-adi/Food-Recipe-App/blob/master/Screenshot_2022-04-23-13-15-41-58_7c4682dc59d5fb14b4ec603a8e095bc4.jpg" width="350" height= "350">
   <img src="https://github.com/Nomad-adi/Food-Recipe-App/blob/master/Screenshot_2022-04-23-13-16-05-32_7c4682dc59d5fb14b4ec603a8e095bc4.jpg" width="350" height= "350">
   <img src="https://github.com/Nomad-adi/Food-Recipe-App/blob/master/Screenshot_2022-04-23-13-18-10-47_7c4682dc59d5fb14b4ec603a8e095bc4.jpg" width="350" height= "350">

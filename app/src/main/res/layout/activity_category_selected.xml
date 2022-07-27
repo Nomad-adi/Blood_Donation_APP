@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEBEB"
+    android:orientation="vertical"
+    tools:context=".CategorySelectedActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_cat"
+        android:background="@color/maincolor"
+        android:elevation="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+        app:popupTheme="@style/Theme.AppCompat.DayNight"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+
+        android:id="@+id/recycleView_cat"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/empty_ly"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/empty_img"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="100dp"
+            android:src="@drawable/empty">
+
+        </ImageView>
+
+        <TextView
+            android:textColor="#000"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="60dp"
+            android:text="No Blood Groups Available" />
+    </LinearLayout>
+
+
+</LinearLayout>
